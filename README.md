@@ -12,6 +12,8 @@ An intelligent system that leverages multiple AI agents to conduct comprehensive
 - Export options (Markdown & JSON)
 
 ## System Architecture
+![image](https://github.com/user-attachments/assets/ea3d469e-d4be-46c7-800d-d9ad414f85fc)
+
 The system consists of five specialized agents:
 1. Project Manager Agent: Orchestrates the analysis workflow
 2. Industry Researcher Agent: Conducts market analysis
