@@ -32,7 +32,7 @@ The system consists of five specialized agents:
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd market-research-agents
+cd market-research
 ```
 
 2. Create and activate a virtual environment:
