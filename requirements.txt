@@ -1,0 +1,26 @@
+# Core dependencies
+python-dotenv>=1.0.0
+autogen>=1.0.0
+openai>=1.12.0
+tavily-python>=0.2.8
+
+# Web interface
+streamlit>=1.31.0
+streamlit-chat>=0.1.1
+
+# Azure OpenAI
+azure-core>=1.29.5
+azure-identity>=1.15.0
+
+# Utilities
+numpy>=1.24.3
+pandas>=2.0.3
+requests>=2.31.0
+
+# Type hints
+typing-extensions>=4.8.0
+
+# Development tools
+black>=23.9.1
+flake8>=6.1.0
+pytest>=7.4.2
